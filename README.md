@@ -162,11 +162,10 @@ for their guidance and support throughout this project.
 
 ## Connect With Me
 
-**Shipra Sharma**
+**Shree Sharma**
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: *(https://www.linkedin.com/in/shree-sharma-8b879a324?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 
-GitHub: *(Add your GitHub profile)*
 
 ---
 
