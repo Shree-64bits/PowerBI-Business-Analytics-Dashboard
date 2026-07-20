@@ -122,6 +122,9 @@ The project uses four datasets:
 
 ## 📊 Dashboard Preview
 
+### Dashboard Overview
+![Dashboard Overview](screenshots/Screenshot%20%28629%29.png)
+
 ### Executive Overview
 ![Executive Overview](screenshots/Screenshot%20%28630%29.png)
 
