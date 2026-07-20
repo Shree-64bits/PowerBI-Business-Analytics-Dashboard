@@ -120,12 +120,19 @@ The project uses four datasets:
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
+### Executive Overview
+![Executive Overview](screenshots/Executive_Overview.png)
 
+### Sales Analysis
+![Sales Analysis](screenshots/Sales_Analysis.png)
 
+### Customer Analysis
+![Customer Analysis](screenshots/Customer_Analysis.png)
 
----
+### Returns Analysis
+![Returns Analysis](screenshots/Returns_Analysis.png)
 
 ## Learning Outcomes
 
