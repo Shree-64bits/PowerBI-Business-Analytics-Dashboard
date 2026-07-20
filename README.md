@@ -123,16 +123,16 @@ The project uses four datasets:
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](screenshots/Screenshot%20%28630%29.png)
 
 ### Sales Analysis
-![Sales Analysis](screenshots/Sales_Analysis.png)
+![Sales Analysis](screenshots/Screenshot%20%28631%29.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/Customer_Analysis.png)
+![Customer Analysis](screenshots/Screenshot%20%28632%29.png)
 
 ### Returns Analysis
-![Returns Analysis](screenshots/Returns_Analysis.png)
+![Returns Analysis](screenshots/Screenshot%20%28633%29.png)
 
 ## Learning Outcomes
 
