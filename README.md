@@ -127,7 +127,8 @@ The project uses four datasets:
 Example:
 
 ```
-screenshots/
+screenshots/<img width="1920" height="1080" alt="Screenshot (629)" src="https://github.com/user-attachments/assets/0274a3f6-27c2-475c-8211-1ac34bd360cf" />
+
 ```
 
 ---
